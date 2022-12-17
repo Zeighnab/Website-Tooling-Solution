@@ -75,7 +75,7 @@
 
     <h1> PROPITIX TOOLING WEBSITE. </h1>
     <h2 id="test">Propitix.io</h2>
-    <h3>Updated by Zeighnab<h3>
+    <h2 id="test">Updated by Zeighnab</h2>
 
 
     
